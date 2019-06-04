@@ -29,7 +29,7 @@ Dataset is size of (6362620, 11), 11 columns name are described following:
 2. Feature selection: drop the features `nameOrig`, `nameDest`.
 3. Feature Encoding: transfer category feature `type` to numeric feature.  
 4. PCA: reduce data dimenstionality.   
-![alt text]()
+![alt text](https://github.com/phylliskaka/Credit-Card-Fraud-Detection-/blob/master/PCA_components.png)
 5. Random Undersampling
 
 ## Prediction 
